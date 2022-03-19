@@ -1,2 +1,2 @@
-# my-dolar
-Projeto feito para aplicar propriedas do CSS.
+# Meu Dinheiro
+Projeto feito para aplicar propriedas do CSS e Html.
